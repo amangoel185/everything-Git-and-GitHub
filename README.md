@@ -1,6 +1,6 @@
 # everything Git and GitHub
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A collection of resources and guides that one might require while contributing to open source.
@@ -39,6 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/njwardhan"><img src="https://avatars1.githubusercontent.com/u/59248171?v=4" width="100px;" alt=""/><br /><sub><b>Nishant Joywardhan</b></sub></a><br /><a href="#content-njwardhan" title="Content">🖋</a> <a href="https://github.com/amangoel185/everything-Git-and-GitHub/commits?author=njwardhan" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/amangoel185"><img src="https://avatars1.githubusercontent.com/u/10528392?v=4" width="100px;" alt=""/><br /><sub><b>Aman Goel</b></sub></a><br /><a href="#content-amangoel185" title="Content">🖋</a> <a href="https://github.com/amangoel185/everything-Git-and-GitHub/commits?author=amangoel185" title="Documentation">📖</a></td>
   </tr>
 </table>
 
