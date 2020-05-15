@@ -14,7 +14,7 @@ A collection of resources and guides that one might require while contributing t
     - [Mastering Issues](https://guides.github.com/features/issues/)
     - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
     - [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
-    - [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
+ 
 
 * [The Markdown Guide](https://www.markdownguide.org/)
     - [Getting Started](https://www.markdownguide.org/getting-started/)
