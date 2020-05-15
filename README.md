@@ -20,5 +20,9 @@ A collection of resources and guides that one might require while contributing t
     - [Getting Started](https://www.markdownguide.org/getting-started/)
     - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
     - [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
+* Miscellaneous 
+    - [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
 
+
+</br>
 _(This repository is under development.)_
