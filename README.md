@@ -31,15 +31,15 @@ _(This repository is under development.)_
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/njwardhan"><img src="https://avatars1.githubusercontent.com/u/59248171?v=4" width="100px;" alt=""/><br /><sub><b>Nishant Joywardhan</b></sub></a><br /><a href="#content-njwardhan" title="Content">🖋</a> <a href="https://github.com/amangoel185/everything-Git-and-GitHub/commits?author=njwardhan" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/amangoel185"><img src="https://avatars1.githubusercontent.com/u/10528392?v=4" width="100px;" alt=""/><br /><sub><b>Aman Goel</b></sub></a><br /><a href="#content-amangoel185" title="Content">🖋</a> <a href="https://github.com/amangoel185/everything-Git-and-GitHub/commits?author=amangoel185" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/njwardhan"><img src="https://avatars1.githubusercontent.com/u/59248171?v=4" width="100px;" alt=""/><br /><sub><b>Nishant Joywardhan</b></sub></a><br /><a href="#content-njwardhan" title="Content">🖋</a> <a href="https://github.com/amangoel185/everything-Git-and-GitHub/commits?author=njwardhan" title="Documentation">📖</a></td>
   </tr>
 </table>
 
