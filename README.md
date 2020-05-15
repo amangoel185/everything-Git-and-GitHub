@@ -21,4 +21,4 @@ A collection of resources and guides that one might require while contributing t
     - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
     - [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
-_(This repository is under development)_
+_(This repository is under development.)_
