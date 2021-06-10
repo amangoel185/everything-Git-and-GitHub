@@ -7,7 +7,13 @@ A collection of resources and guides that one might require while contributing t
 
 ## Useful Resources
 
-* [GitHub Guides](https://guides.github.com/)
+
+
+* **[GitHub Docs](https://docs.github.com/en)**
+    - [Quickstart](https://docs.github.com/en/github/getting-started-with-github/quickstart)
+    - [Getting started with Git](https://docs.github.com/en/github/getting-started-with-github/getting-started-with-git)
+
+* **[GitHub Guides](https://guides.github.com/)**
     - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
     - [Hello World](https://guides.github.com/activities/hello-world/)
     - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
@@ -19,15 +25,15 @@ A collection of resources and guides that one might require while contributing t
     - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
     - [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
 
-* [The Markdown Guide](https://www.markdownguide.org/)
+* **[The Markdown Guide](https://www.markdownguide.org/)**
     - [Getting Started](https://www.markdownguide.org/getting-started/)
     - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
     - [Extended Syntax](https://www.markdownguide.org/extended-syntax/)
 
-* Miscellaneous 
+* **Miscellaneous** 
     - [Git Branching Model](https://nvie.com/posts/a-successful-git-branching-model/)
 
-_(This repository is under development.)_
+_(This repository is under development.)_   
 
 ## Contributors ✨
 
